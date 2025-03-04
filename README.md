@@ -2,7 +2,7 @@
 
 - 🔭 Me especializando em front-end
 - 🌱 criando sempre novos projetos 
-- 💬 Em busca do primeiro emprego
+- 💬 muito comunicativo 
 
 <div align="center">
   <a href="https://github.com/JonasMantilla">
